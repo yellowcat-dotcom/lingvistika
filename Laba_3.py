@@ -60,5 +60,3 @@ for el in text:
         print(doc.tokens[:5])
         doc.sents[0].syntax.print()
 
-print("12345")
-print("efgd")
