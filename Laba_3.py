@@ -59,3 +59,5 @@ for el in text:
         doc.parse_syntax(syntax_parser)
         print(doc.tokens[:5])
         doc.sents[0].syntax.print()
+
+print("12345")
